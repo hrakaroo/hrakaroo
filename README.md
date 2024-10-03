@@ -10,16 +10,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 
-
 -->
 - 🔭 I’m currently working on
   - Some 3d rendering stuff
-  - Some financial trading scripts
+  - Some financial trading scripts with Alpaca
   - Other misc projects
-- 🌱 I’m currently learning the Alpaca API
+- 🪵 I'm currently building
+  - An outfeed table for my table saw
+  - A flip top stand for my grinder and scroll saw
 - 📖 I'm currently reading
   - The Three Signs of a Miserable Job: A Fable for Managers (and their employees)
   - The Three-Body Problem
   - Ray Tracing in One Weekend
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
