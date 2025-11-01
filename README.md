@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on
-  - Some 3d rendering stuff
-  - Some financial trading scripts with Alpaca
-  - Other misc projects
+  - Some 3d rendering projects
+  - Spec coding with Claude on One Seat Open V3
 - 🪵 I'm currently building
-  - An outfeed table for my table saw
-  - A flip top stand for my grinder and scroll saw
+  - A cabinet for my woodshop
+  - A small cupboard for a bathroom
 - 📖 I'm currently reading
-  - The Three Signs of a Miserable Job: A Fable for Managers (and their employees)
-  - The Three-Body Problem
   - Ray Tracing in One Weekend
+  - The Three Signs of a Miserable Job: A Fable for Managers (and their employees)
+  - Crucial Conversations
+  - Short stories in French
 - 😄 Pronouns: he/him
